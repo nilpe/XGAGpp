@@ -1,0 +1,3 @@
+[submodule "xfoil-cpp"]
+	path = xfoil-cpp
+	url = https://github.com/kamino410/xfoil-cpp
